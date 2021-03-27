@@ -30,4 +30,8 @@
 	  <nav>
 	  	<a class="btn btn-dark" href="/login/novo" type="button">Login</a>
 	  </nav>
+	  <nav>
+	  	<a class="btn btn-dark" href="/login" type="button">Sair</a>
+	  </nav>
+	  
 </nav>
