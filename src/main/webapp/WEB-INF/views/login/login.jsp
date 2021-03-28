@@ -37,11 +37,11 @@
 <!--             </div> -->
             
                 <div class="form-group">
-                    <input type="text" name="username" class="form-control" placeholder="Your username*" required autofocus/>
+                    <input type="text" name="username" class="form-control" placeholder="Your username: user*" required autofocus/>
                 </div>
 
                 <div class="form-group">
-                    <input required type="password" name="password" class="form-control" placeholder="Your Password *"/>
+                    <input required type="password" name="password" class="form-control" placeholder="Your Password: Vai estar no Console do Eclipse. *"/>
                 </div>
 
                 <div class="form-group">
@@ -57,6 +57,6 @@
 
 	<script type="text/javascript" src="/js/jquery-3.5.1.min.js"></script>
 	<script type="text/javascript" src="/js/bootstrap.min.js"></script>
-	
+	<p class="mt-5 mb-3 text-muted text-center">Veterinária Arca de Noé&copy; 2021</p>
 </body>
 </html>
